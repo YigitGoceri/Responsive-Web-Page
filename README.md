@@ -8,5 +8,9 @@
      </h3>
 </div>
 
+## Overview
+I built this project with using css flexbox, so it's a responsive design.
+
+- You can see my demo by click the link above ^^
 
 
