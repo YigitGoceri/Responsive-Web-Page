@@ -1,4 +1,4 @@
-<h1 align="center">Responsive</h1>
+<h1 align="center">Responsive Web Page</h1>
 
 <div align="center">
   <h3>
